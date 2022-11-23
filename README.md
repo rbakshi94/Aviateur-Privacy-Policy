@@ -4,7 +4,7 @@ This is a repository for the Privacy Policy page concerning Aviateur - Flight Si
 
 The page can be viewed here: https://rbakshi94.github.io/Aviateur-Privacy-Policy/
 
-Game download links:
+## Game download links:
 
 IOS: https://apps.apple.com/ca/app/aviateur-flight-simulation/id6444638830
 
